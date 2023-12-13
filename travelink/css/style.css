@@ -1,0 +1,145 @@
+.nav-link.active{
+    background: #75c8ff;
+    color: white!important;
+}
+
+.navbar-nav{
+    margin-bottom: 0px;
+}
+
+.nav-link:hover{
+    background-color: #75c8ff;
+    color: white;
+}
+
+.nav-link{
+    padding: 23px;
+}
+
+.navbar{
+    height: 70px;
+}
+
+.btn-orange{
+    width: 150px;
+    background-color: #75c8ff;
+    color: white;
+}
+
+.btn-orange:hover{
+    border: 1px solid #75c8ff;
+}
+
+.Travel{
+    width: 300px;
+}
+
+
+.cardsaran{
+    padding: 30px 40px;margin-top: 20px;margin-bottom: 60px;border: none !important;box-shadow: 0 6px 12px 0 rgba(0,0,0,0.2)
+}
+
+.blue-text{
+    color: #00BCD4
+}
+.form-control-label{
+    margin-bottom: 0;
+    text-align: left
+}
+input, textarea, button{
+    padding: 8px 15px;border-radius: 5px !important;margin: 5px 0px;box-sizing: border-box;border: 1px solid #ccc;font-size: 18px !important;font-weight: 300
+}
+input:focus, textarea:focus{
+    -moz-box-shadow: none !important;-webkit-box-shadow: none !important;box-shadow: none !important;border: 1px solid #00BCD4;outline-width: 0;font-weight: 400
+}
+.bg1{
+    background-image: url(../Asset/Bg\ terbaru.png);
+    height: 470px;
+    width: 100%;
+    background-size: cover;
+}
+
+.bg1Mouseover{
+    background-image: url(../Asset/bg2.jpg);
+    height: 470px;
+    width: 100%;
+    background-size: cover;
+}
+
+.bg1w{
+    background-image: url(../Asset/bg2.jpg);
+    height: 90.5vh;
+    width: 100%;
+    background-size: cover;
+}
+
+.tengah{
+    margin-top: 180px;
+    border-radius: 4px;
+}
+
+.konten{
+    padding: 30px;
+}
+
+.konten img{
+    margin: 5px;
+    border-radius: 5px;
+    object-fit: cover;
+    max-height: 150px;
+    width: 100%;
+    filter: brightness(90%);
+}
+
+.konten img:hover{
+    filter: brightness(100%);
+}
+
+.resep{
+    padding: 50px;
+}
+
+.card{
+    margin-bottom: 20px;
+}
+
+.card:hover{
+    box-shadow: 0 2px 2px rgb(0 0 0 / 20%);
+    transition: all 0.25s;
+}
+
+.resep img{
+    object-fit: cover;
+    max-height: 200px;
+    width: 100%;
+}
+
+.nama{
+    margin-right: 10px;
+}
+
+.kritsar{
+    background-color: white;
+    width: 50%;
+    padding: 20px;
+    margin-top: 170px;
+    border-radius: 5px;
+}
+
+.btn-kirim{
+    height: 50px;
+    border-radius: 5px;
+    border: none;
+}
+
+.btn-lihat{
+    float: right;
+    background-color: #75c8ff;
+    border: none;
+    color: white;
+}
+
+.btn-lihat:hover{
+    border: 1px solid #75c8ff;
+    color: #75c8ff;
+}
